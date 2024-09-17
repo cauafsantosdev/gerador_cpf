@@ -1,2 +1,3 @@
-# gerador_cpf
-Gerador de CPF simples, feito em Python
+# Gerador de CPF
+
+Gerador de CPF simples feito em Python para testar meus conhecimentos.
